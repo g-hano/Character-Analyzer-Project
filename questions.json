@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Which of the following topics sounds interesting to you?",
+    "options": [
+      "Numbers",
+      "Machines",
+      "Health",
+      "Sports",
+      "Cooking",
+      "Drawing"
+    ]
+  },
+  {
+    "question": "Which of the following topics would you feel confident if you had to make for 5 minutes?",
+    "options": [
+      "Speaking in the crowd",
+      "Giving advices to your friends",
+      "Convincing the person that I like to go out for a dinner",
+      "Joining university sport club",
+      "Cooking a meal for a lovely one",
+      "Helping friends for their make up",
+      "Other"
+    ]
+  },
+  {
+    "question": "What would you prefer?",
+    "options": [
+      "Working alone",
+      "Working with a group of friends"
+    ]
+  },
+  {
+    "question": "Say you joined a new team and your boss gave you the opportunity to choose what role you want, what would you choose?",
+    "options": [
+      "Group leader",
+      "I would not want to be a group leader but I'd like to be someone that people see in front",
+      "Doesn't matter really",
+      "I don't want to be someone that everybody sees, but I want to be someone really important for the team"
+    ]
+  },
+  {
+    "question": "Would you like to work in an environment that has a simple design and no extra accessories or happy colors with your favorite accessories?",
+    "options": [
+      "Simple design",
+      "Doesn't matter really",
+      "Happy colors and accessories are useful for me"
+    ]
+  },
+  {
+    "question": "What's your style of learning?",
+    "options": [
+      "Listening",
+      "Reading",
+      "Writing"
+    ]
+  },
+  {
+    "question": "Are you okay with self-learning?",
+    "options": [
+      "Yes, I am totally okay with it",
+      "I can self-learn but a class would be nice too",
+      "I am more creative in a class with a teacher"
+    ]
+  },
+  {
+    "question": "What would describe your lifestyle?",
+    "options": [
+      "I am happy in my lovely room",
+      "I wanna partying!",
+      "I love traveling"
+    ]
+  },
+  {
+    "question": "How would you like to work?",
+    "options": [
+      "From home",
+      "Hybrid",
+      "From office"
+    ]
+  },
+  {
+    "question": "How easily can you learn new things, such as a new language?",
+    "options": [
+      "Not that hard",
+      "Usual",
+      "Nah, it's difficult for me"
+    ]
+  },
+  {
+    "question": "How long can you focus on a task?",
+    "options": [
+      "I can focus for a very long time",
+      "Usual",
+      "I can't focus on something for a long time, I need breaks"
+    ]
+  }
+]
