@@ -1,6 +1,6 @@
 # Character Analyzer Project
 
-![Character Analyzer](image.jpg)
+![Character Analyzer](img.png)
 
 Character Analyzer is a Streamlit web application that aims to guess your personality based on your responses to a series of questions. It also allows you to provide information about your hobbies and interests and provides a summary of that input.
 
