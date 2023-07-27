@@ -15,13 +15,7 @@ git clone https://github.com/g-hano/character-analyzer.git
 cd character-analyzer
 ```
 
-2. Install the required dependencies. It is recommended to use a virtual environment to manage dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-3. Run the Streamlit application:
+2. Run the Streamlit application:
 
 ```
 streamlit run app.py
